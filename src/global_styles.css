@@ -1,0 +1,17 @@
+/* Add application styles & imports to this file! */
+.appheader {
+  align-content: center;
+  color: rgb(81, 60, 175);
+  background-size: 100%;
+  text-align-last: center;
+  background-color: rgb(227, 231, 231);
+}
+my-app {
+  height: 50%;
+}
+.inputclass {
+  align-content: flex-end;
+  margin-top: 1rem;
+  border: none;
+  box-sizing: none;
+}
